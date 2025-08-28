@@ -33,3 +33,5 @@ void main() {
     print('Final Grade: $(finalGrade.toStringAsFixed(1))');
     print(finalGrade >= passingGradeThreshold ? 'Passed' : 'Failed');
 }
+
+// no time sa comment sir aaaaaaaaaaaaaaaaaaaaaaaaaaaa
